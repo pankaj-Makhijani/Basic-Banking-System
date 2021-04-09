@@ -9,3 +9,6 @@ Steps to run this project:-
 2. Start Apache and MYSQL service from Xampp
 3. Create a new database in MYSQL and name it as GRIP and import the Grip.sql from the Cloned repository.
 4. Now navigate to your website in browser and you're all good to go.
+
+Live Project Link :
+https://webdevelopmenttask1.000webhostapp.com/index.php
